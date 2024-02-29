@@ -1,4 +1,4 @@
-# CyberShield 🛡️
+# Windkitty 🛡️
 
 ## Note 
 This will work with future stealers as well as this protection is universal and not targeted against a specific kind/family of stealers.
@@ -6,7 +6,7 @@ This will work with future stealers as well as this protection is universal and 
 
 ## Overview
 
-CyberShield is a PowerShell-based PC protector script designed to fortify your Windows system against potential threats. It offers features like startup cleanup, Discord injection prevention, and the option to install [NoMoreCookies](https://github.com/AdvDebug/NoMoreCookies/tree/NoMoreCookies_2.3) for defense against known rats and grabbers.
+Windkitty is a PowerShell-based PC protector script designed to fortify your Windows system against potential threats. It offers features like startup cleanup, Discord injection prevention, and the option to install [NoMoreCookies](https://github.com/AdvDebug/NoMoreCookies/tree/NoMoreCookies_2.3) for defense against known rats and grabbers.
 
 ## Features
 
