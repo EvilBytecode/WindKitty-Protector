@@ -17,7 +17,7 @@
 * RedLine
 
 
-## Cybershield Protection.
+## Windkitty Protection.
 - All Discord Grabbers = Dead They will remove from startup, all of them are skidded lmfao they work exactly same.
 - Injection Into Desktop Core = Dead too, since core is startup of discord it will remove it if the file is over 1kb.
 - Powershell Grabber removes thru task (it has persistnace thru task i forgot the name)
